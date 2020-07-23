@@ -1,0 +1,43 @@
+/* Style all font awesome icons */
+.fa {
+  padding: 10px;
+  font-size: 20px;
+  width: 20px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+/* Facebook */
+.fa-facebook {
+  /*background: #3B5998;*/
+  background: #262626;
+  color: white;
+}
+
+/* Linkedin */
+.fa-linkedin {
+  /*background: #55ACEE;*/
+  background: #262626;
+  color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+  /*background: #3F729B;*/
+  background: #262626;
+  color: white;
+}
+
+/* Telegram */
+.fa-telegram {
+  background: #262626;
+  color: white;
+}
+
+/* Whatsapp */
+.fa-whatsapp {
+  background: #262626;
+  color: white;
+}

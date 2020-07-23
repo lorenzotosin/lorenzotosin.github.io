@@ -1,0 +1,18 @@
+.zoom {
+  box-sizing: border-box;
+}
+
+.zoom {
+  padding: 5px;
+  transition: transform .2s;
+  width: 230px;
+  height: 230px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.2); /* IE 9 */
+  -webkit-transform: scale(1.2); /* Safari 3-8 */
+  -o-transition: scale(1.2); /* Opera */
+  transform: scale(1.2);
+}
