@@ -23,11 +23,11 @@ img {
   height: 225px;
 }
 
-p, h1 {
+h1 {
   font-family: 'Source Serif Pro', serif;
 }
 
-h2, li {
+p, h2 {
   font-family: 'Arial', serif;
 }
 
