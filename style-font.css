@@ -27,6 +27,10 @@ p, h1 {
   font-family: 'Source Serif Pro', serif;
 }
 
+h2, li {
+  font-family: 'Arial', serif;
+}
+
 footer {
   color: #242424;
   text-align: center;
